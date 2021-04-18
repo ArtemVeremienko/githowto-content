@@ -72,7 +72,7 @@ git log --pretty=oneline --until='5 minutes ago'
 git log --pretty=oneline --author=&lt;your name&gt;
 git log --pretty=oneline --all</pre>
 
-<p>Подробиці в інструкції <code>git-log</code>.</p>
+<p>В unix-системах доступна довідкова сторінка <code>man git log</code>.</p>
 
 <h2><em>03</em> Ухитряємося</h2>
 
